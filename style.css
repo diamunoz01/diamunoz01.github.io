@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #EAE7EE;
+  font-family: "Garamond", Georgia, Times, serif; 
+}
+
+.main-container {
+  margin: 0 auto;
+  max-width: 1050px;
+}

@@ -1,11 +1,44 @@
 body {
   margin: 0;
   padding: 0;
-  color: #EAE7EE;
+  background: #f4f7f7;
   font-family: "Garamond", Georgia, Times, serif; 
+  color: #1f4e5f;
 }
 
 .main-container {
   margin: 0 auto;
   max-width: 1050px;
+  background: #f4f7f7;
+  font-family: "Garamond", Georgia, Times, serif; 
+}
+ 
+p.
+
+.navbar-header{
+background: #f4f7f7;
+
+}
+
+.cf:after {
+     visibility: hidden;
+     display: block;
+     font-size: 0;
+     content: " ";
+     clear: both;
+     height: 0;
+     }
+.cf { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.cf { display: block; }
+
+.content-container {
+	margin: 0 auto;
+	max-width: 650px;
+  padding:0 20px;
+}
+
+hr.style1 {
+	border-top: 1px dashed #79a8a9;
 }

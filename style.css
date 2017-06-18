@@ -1,24 +1,28 @@
 body {
   margin: 0;
   padding: 0;
-  background: #f4f5f9;
+
   font-family: "Garamond", Georgia, Times, serif; 
-  color: #1f4e5f;
+  color: #4D8DB3;
   font-size: 18px;
 }
 
 .main-container {
   margin: 0 auto;
   max-width: 1050px;
-  background: #f4f5f9;
+
   font-family: "Garamond", Georgia, Times, serif; 
 }
  
 p.
 
 .navbar-header{
-background: #f4f5f9;
 
+color: #353866;
+
+}
+p.style1{
+	color:#291B34;
 }
 
 .cf:after {
@@ -41,5 +45,9 @@ background: #f4f5f9;
 }
 
 hr.style1 {
-	border-top: 1px dashed #79a8a9;
+	border-top: 1px dashed #4D8DB3;
+}
+
+h1.style1 {
+	color:#184870;
 }
